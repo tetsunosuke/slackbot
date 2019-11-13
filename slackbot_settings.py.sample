@@ -1,0 +1,6 @@
+#botアカウントトークン
+API_TOKEN="hoge"
+
+DEFAULT_REPLY = "It's words that's not registered on me."
+
+PLUGINS = ['plugins',]
